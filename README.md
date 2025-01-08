@@ -10,6 +10,9 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
+      <a href="#results">Results</a>
+    </li>
+    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
@@ -38,9 +41,30 @@ A user-friendly console application that receives and displays the data from the
 
 Together, these applications simulate a real-time stock market environment, providing a practical tool for analyzing and visualizing dynamic price movements.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## Results
+
+You only need to pay attention to the Client-Side Terminal. 
+
+### Training, Validation, and Test Data Splits
+![Initial Setup][init-vars]
+
+This is the initial setup of the program. Input the number of tickers you want created and then the interval at which you want these tickers to be refreshed. 
+
+### Ticker Results
+![Tickers][tickers]
+
+This is what the tickers will look like. It will be set up with realistic data and its behavior will mimic real stock data. 
+
+### Post-Setup Options
+![Options][options]
+
+After the initial setup is done, it will ask you what you would like to see. You can specify any of the options and it will be displayed in the same format as above. As long as the processes are alive, the tickers will be continuously updated in the background at the interval you specified in the beginning. 
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -89,6 +113,12 @@ Rohan Chaturvedula - [Linkedin](https://www.linkedin.com/in/rohan-chaturvedula/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- Saved Locations for images -->
+[init-vars]: images/Initial_Vars.webp
+[options]: images/Options.png
+[tickers]: images/Tickers.png
 
 
 
