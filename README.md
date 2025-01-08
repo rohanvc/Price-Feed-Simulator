@@ -116,7 +116,7 @@ Rohan Chaturvedula - [Linkedin](https://www.linkedin.com/in/rohan-chaturvedula/)
 
 
 <!-- Saved Locations for images -->
-[init-vars]: images/Initial_Vars.webp
+[init-vars]: images/Initial_Vars.png
 [options]: images/Options.png
 [tickers]: images/Tickers.png
 
